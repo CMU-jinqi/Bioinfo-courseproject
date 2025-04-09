@@ -1,1 +1,0 @@
-print(f'''My first batch job''', flush = True)
