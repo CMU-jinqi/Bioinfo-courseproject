@@ -1,0 +1,1 @@
+print(f'''My first interact job''', flush = True)
